@@ -44,9 +44,7 @@ class DataIngestion:
             raise CustomException(e, sys)
         
         
-        
-        
-        
+
         
         
         
